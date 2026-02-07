@@ -88,7 +88,27 @@ Yes, @_offmylawn belly is getting bigger.
 
 Looks like he needs to go on a diet 😰.`,
         link: "https://x.com/kersa1n/status/2017941181695701232"
-    }
+    },
+    {
+        id: 6,
+        folder: "w-6",
+        title: "Raiku Poker Game",
+        category: "illustration",
+        date: "7 Feb, 2026",
+        tools: ["Medibang"],
+        description: `gRaiku 🐉
+
+Don't miss tonight Raiku Poker Game.
+
+Bring out your best strategy.
+
+Is relying on luck a real way to win?
+
+Proof it on the table.
+
+Good luck.`,
+        link: "https://x.com/kersa1n/status/2020103090364641451"
+    },
 ];
 
 let currentIndex = 0;
