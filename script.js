@@ -109,6 +109,26 @@ Proof it on the table.
 Good luck.`,
         link: "https://x.com/kersa1n/status/2020103090364641451"
     },
+    {
+        id: 7,
+        folder: "w-7",
+        title: "This Time Raiku Townhall is Different",
+        category: "illustration",
+        date: "13 Feb, 2026",
+        tools: ["Medibang"],
+        description: `This time Raiku Townhall is different.
+
+@_offmylawn and @IDrawCharts really doxxed himself on @raikucom.
+
+I found a new fact that Raiku Chad who votes slop/not slop correctly will enter a raffle to get POAP.
+
+With this scheme, I hope Raiku Chad can be wiser in voting slop/not slop for truly quality content.
+
+Addition: Don't drink too many sweet drinks, or your stomach will be like the character I made 🤣.
+
+Thank you for making Raiku Townhall so much fun.`,
+        link: "https://x.com/kersa1n/status/2022329372561268944"
+    },
 ];
 
 let currentIndex = 0;
